@@ -2,8 +2,12 @@
 # Political Card Hack Game
 =====================
 
-# Instructions
+## Todo
 
-- WASD movement
-- rawr
-___
+- Game Play
+- Menu Screen
+- Stage Selection
+
+## Dependencies
+
+## Setup & Installation
