@@ -11,3 +11,6 @@
 ## Dependencies
 
 ## Setup & Installation
+
+- npm install -g gulp
+- npm install -g broswer-sync
