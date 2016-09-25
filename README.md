@@ -7,10 +7,11 @@
 - Game Play
 - Menu Screen
 - Stage Selection
+- BATTLEGROUND (PRIORITY 1)
 
 ## Dependencies
 
 ## Setup & Installation
 
 - npm install -g gulp
-- npm install -g broswer-sync
+- npm install -g browser-sync
